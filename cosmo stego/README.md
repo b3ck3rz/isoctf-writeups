@@ -1,4 +1,4 @@
-# Cosmo Stego
+# Cosmo Stego | Stego
 
 ## Описание
 
