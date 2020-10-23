@@ -1,4 +1,4 @@
-# Strange audio from Space
+# Strange audio from Space | Stego
 
 ## Описание
 
